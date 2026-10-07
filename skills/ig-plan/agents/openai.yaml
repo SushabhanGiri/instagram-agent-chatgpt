@@ -1,0 +1,4 @@
+interface:
+  display_name: "ig-plan"
+  short_description: "Instagram workflow: ig-plan"
+  default_prompt: "/ig-plan Help me with this Instagram workflow."

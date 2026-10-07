@@ -1,0 +1,4 @@
+interface:
+  display_name: "ig-story"
+  short_description: "Instagram workflow: ig-story"
+  default_prompt: "/ig-story Help me with this Instagram workflow."

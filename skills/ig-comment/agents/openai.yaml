@@ -1,0 +1,4 @@
+interface:
+  display_name: "ig-comment"
+  short_description: "Instagram workflow: ig-comment"
+  default_prompt: "/ig-comment Help me with this Instagram workflow."

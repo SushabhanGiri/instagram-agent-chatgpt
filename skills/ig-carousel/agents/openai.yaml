@@ -1,0 +1,4 @@
+interface:
+  display_name: "ig-carousel"
+  short_description: "Instagram workflow: ig-carousel"
+  default_prompt: "/ig-carousel Help me with this Instagram workflow."

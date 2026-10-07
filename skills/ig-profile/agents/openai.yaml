@@ -1,0 +1,4 @@
+interface:
+  display_name: "ig-profile"
+  short_description: "Instagram workflow: ig-profile"
+  default_prompt: "/ig-profile Help me with this Instagram workflow."

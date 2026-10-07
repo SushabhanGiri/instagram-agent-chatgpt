@@ -1,0 +1,54 @@
+{
+  "version": "chatgpt-port-1.0",
+  "dimensions": [
+    [
+      "identity_clarity",
+      10
+    ],
+    [
+      "audience_specificity",
+      10
+    ],
+    [
+      "value_proposition",
+      10
+    ],
+    [
+      "proof",
+      10
+    ],
+    [
+      "searchability",
+      8
+    ],
+    [
+      "cta",
+      8
+    ],
+    [
+      "link_clarity",
+      8
+    ],
+    [
+      "visual_coherence",
+      8
+    ],
+    [
+      "pinned_posts",
+      8
+    ],
+    [
+      "highlights",
+      8
+    ],
+    [
+      "trust",
+      6
+    ],
+    [
+      "friction",
+      6
+    ]
+  ],
+  "total": 100
+}

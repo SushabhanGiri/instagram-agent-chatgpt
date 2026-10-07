@@ -1,0 +1,4 @@
+interface:
+  display_name: "ig-reel"
+  short_description: "Instagram workflow: ig-reel"
+  default_prompt: "/ig-reel Help me with this Instagram workflow."

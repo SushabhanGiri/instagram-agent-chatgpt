@@ -1,0 +1,4 @@
+interface:
+  display_name: "ig-viral"
+  short_description: "Instagram workflow: ig-viral"
+  default_prompt: "/ig-viral Help me with this Instagram workflow."

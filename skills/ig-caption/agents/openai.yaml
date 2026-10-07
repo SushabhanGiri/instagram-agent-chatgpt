@@ -1,0 +1,4 @@
+interface:
+  display_name: "ig-caption"
+  short_description: "Instagram workflow: ig-caption"
+  default_prompt: "/ig-caption Help me with this Instagram workflow."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "ig-repurpose"
+  short_description: "Instagram workflow: ig-repurpose"
+  default_prompt: "/ig-repurpose Help me with this Instagram workflow."

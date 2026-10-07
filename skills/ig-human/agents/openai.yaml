@@ -1,0 +1,4 @@
+interface:
+  display_name: "ig-human"
+  short_description: "Instagram workflow: ig-human"
+  default_prompt: "/ig-human Help me with this Instagram workflow."

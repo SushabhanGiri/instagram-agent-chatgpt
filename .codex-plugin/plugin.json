@@ -1,0 +1,30 @@
+{
+  "author": {
+    "email": "sushabhangiri2025@gmail.com",
+    "name": "Sushabhan Giri",
+    "url": "https://github.com/SushabhanGiri"
+  },
+  "description": "ChatGPT-native adaptation of Jake Schincariol's MIT-licensed Instagram Agent skill: 13 workflows for Reels, captions, research, carousels, stories, profile audits, planning, humanization, engagement, DMs, repurposing, and post-mortems.",
+  "homepage": "https://github.com/SushabhanGiri/instagram-agent-chatgpt",
+  "interface": {
+    "capabilities": [
+      "Interactive"
+    ],
+    "category": "Productivity",
+    "defaultPrompt": [
+      "/ig-reel Turn this idea into a Reel.",
+      "/ig-caption Improve this Instagram caption.",
+      "/ig-plan Plan my Instagram week."
+    ],
+    "developerName": "Sushabhan Giri",
+    "displayName": "Instagram Agent for ChatGPT",
+    "longDescription": "A ChatGPT-native port of Jake Schincariol's Instagram Agent skill. Includes 13 reusable Instagram workflows, the original 26 Reel hook formulas and scoring helpers, plus ChatGPT-specific instructions for web research and code execution when available.",
+    "shortDescription": "13 Instagram workflows"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "name": "instagram-agent-chatgpt",
+  "repository": "https://github.com/SushabhanGiri/instagram-agent-chatgpt",
+  "skills": "./skills",
+  "version": "1.0.0"
+}

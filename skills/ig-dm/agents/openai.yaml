@@ -1,0 +1,4 @@
+interface:
+  display_name: "ig-dm"
+  short_description: "Instagram workflow: ig-dm"
+  default_prompt: "/ig-dm Help me with this Instagram workflow."

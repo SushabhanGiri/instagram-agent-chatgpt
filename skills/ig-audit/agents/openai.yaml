@@ -1,0 +1,4 @@
+interface:
+  display_name: "ig-audit"
+  short_description: "Instagram workflow: ig-audit"
+  default_prompt: "/ig-audit Help me with this Instagram workflow."

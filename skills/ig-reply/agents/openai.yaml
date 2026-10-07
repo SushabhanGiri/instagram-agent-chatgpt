@@ -1,0 +1,4 @@
+interface:
+  display_name: "ig-reply"
+  short_description: "Instagram workflow: ig-reply"
+  default_prompt: "/ig-reply Help me with this Instagram workflow."
